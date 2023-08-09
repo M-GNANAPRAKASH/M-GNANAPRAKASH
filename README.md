@@ -1,4 +1,4 @@
-# PPRAKASH
+# PRAKASH
 
 
 ## 🛠 Languages and Tools
