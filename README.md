@@ -1,5 +1,5 @@
 # PRAKASH
-![](bandicam 2023-08-20 20-10-34-456.gif)
+![](Designer.gif)
 
 
 ## Languages and Softwares
